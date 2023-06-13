@@ -1,0 +1,15 @@
+C:\Users\Darya\Examples\Example1_HlloConsole\bin\Debug\net6.0\Example1_HlloConsole.exe
+C:\Users\Darya\Examples\Example1_HlloConsole\bin\Debug\net6.0\Example1_HlloConsole.deps.json
+C:\Users\Darya\Examples\Example1_HlloConsole\bin\Debug\net6.0\Example1_HlloConsole.runtimeconfig.json
+C:\Users\Darya\Examples\Example1_HlloConsole\bin\Debug\net6.0\Example1_HlloConsole.dll
+C:\Users\Darya\Examples\Example1_HlloConsole\bin\Debug\net6.0\Example1_HlloConsole.pdb
+C:\Users\Darya\Examples\Example1_HlloConsole\obj\Debug\net6.0\Example1_HlloConsole.csproj.AssemblyReference.cache
+C:\Users\Darya\Examples\Example1_HlloConsole\obj\Debug\net6.0\Example1_HlloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darya\Examples\Example1_HlloConsole\obj\Debug\net6.0\Example1_HlloConsole.AssemblyInfoInputs.cache
+C:\Users\Darya\Examples\Example1_HlloConsole\obj\Debug\net6.0\Example1_HlloConsole.AssemblyInfo.cs
+C:\Users\Darya\Examples\Example1_HlloConsole\obj\Debug\net6.0\Example1_HlloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Darya\Examples\Example1_HlloConsole\obj\Debug\net6.0\Example1_HlloConsole.dll
+C:\Users\Darya\Examples\Example1_HlloConsole\obj\Debug\net6.0\refint\Example1_HlloConsole.dll
+C:\Users\Darya\Examples\Example1_HlloConsole\obj\Debug\net6.0\Example1_HlloConsole.pdb
+C:\Users\Darya\Examples\Example1_HlloConsole\obj\Debug\net6.0\Example1_HlloConsole.genruntimeconfig.cache
+C:\Users\Darya\Examples\Example1_HlloConsole\obj\Debug\net6.0\ref\Example1_HlloConsole.dll
